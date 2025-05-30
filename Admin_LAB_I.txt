@@ -1,0 +1,13 @@
+Admin_LAB_I
+contraseña de labo piso 7.
+no enviar el node para el proyecto, excluir el /nodemodules. 
+- npm i ( para enviar solo las dependencias de la aplicacion)
+- El render nunca puede faltar en un metodo de clase
+jsx permite escribir como html pero en javascript
+- todo dentro del return es jsx y todo fuera es javascript
+- las propiedades son una forma de pasar datos del padre al hijo
+- el rende r es una función que ese ejecuta cada vez que se cambian 1, o 2 elementos : las props o estado del componente
+- si actualizo el interfas se modifica el estado
+- 3 restricciones y que no forman parte del estado: props, datos que no cambien en el tiempo, datos que cambian en el tiempo se pueden derivar de otros.
+- operador spread: ... 
+- useState retorna un vector
