@@ -11,3 +11,4 @@ jsx permite escribir como html pero en javascript
 - 3 restricciones y que no forman parte del estado: props, datos que no cambien en el tiempo, datos que cambian en el tiempo se pueden derivar de otros.
 - operador spread: ... 
 - useState retorna un vector
+///
